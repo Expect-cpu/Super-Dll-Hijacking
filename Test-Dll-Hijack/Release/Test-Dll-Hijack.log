@@ -1,0 +1,8 @@
+﻿  DllMain.cpp
+  Hijack.cpp
+    正在创建库 E:\破解逆向笔记\Super-Dll-Hijacking\Release\Test-Dll-Hijack.lib 和对象 E:\破解逆向笔记\Super-Dll-Hijacking\Release\Test-Dll-Hijack.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 63 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Test-Dll-Hijack.vcxproj -> E:\破解逆向笔记\Super-Dll-Hijacking\Release\Test-Dll-Hijack.dll
